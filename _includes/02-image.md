@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of General Assembly Logo](https://ga-core.s3.amazonaws.com/cms/files/files/000/000/886/original/ga-logo-gear.png)
